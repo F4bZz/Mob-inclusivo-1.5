@@ -1,4 +1,4 @@
-window.location.href = "google.com"
+window.location.href = "https://f4bzz.github.io/MobInclusivo-1.7/"
 const formulario = document.getElementById("registroForm");
 
 const campoNome = document.getElementById("nome");
