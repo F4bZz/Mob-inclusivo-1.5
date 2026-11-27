@@ -1,4 +1,4 @@
-
+window.location.href = "google.com"
 const formulario = document.getElementById("registroForm");
 
 const campoNome = document.getElementById("nome");
